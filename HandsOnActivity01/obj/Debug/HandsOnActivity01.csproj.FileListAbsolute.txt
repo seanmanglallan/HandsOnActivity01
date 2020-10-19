@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\obj\Debug\HandsOnActivity01.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\obj\Debug\HandsOnActivity01.frmRegistration.resources
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\obj\Debug\HandsOnActivity01.frmConfirmation.resources
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\obj\Debug\HandsOnActivity01.Properties.Resources.resources
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\obj\Debug\HandsOnActivity01.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\obj\Debug\HandsOnActivity01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\bin\Debug\HandsOnActivity01.exe.config
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\bin\Debug\HandsOnActivity01.exe
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\bin\Debug\HandsOnActivity01.pdb
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\obj\Debug\HandsOnActivity01.exe
+C:\Users\Admin\source\repos\HandsOnActivity01\HandsOnActivity01\obj\Debug\HandsOnActivity01.pdb
